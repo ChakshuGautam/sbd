@@ -29,6 +29,8 @@
     "mocha": "7.1.1"
   },
   "dependencies": {
+    "node-fetch": "^2.7.0",
+    "openai": "^4.21.0",
     "sanitize-html": "^2.3.2"
   },
   "browser": {
